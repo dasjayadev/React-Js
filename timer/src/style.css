@@ -1,0 +1,58 @@
+.clock {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .time-buttons {
+    margin-bottom: 20px;
+  }
+  
+  .time-buttons button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .time-buttons button:hover {
+    background-color: #0056b3;
+  }
+  
+  .inputs {
+    margin-bottom: 20px;
+  }
+  
+  .inputs label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .inputs input {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .inputs button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .inputs button:hover {
+    background-color: #218838;
+  }
+  
